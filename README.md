@@ -19,18 +19,30 @@ gcc calc.tab.c lex.yy.c -lfl
 ./a.out<TestCodes/filename.pas
 ```
 
+## Statements from PASCAL which can be compiled
+
+- datatypes supported - ```integer```
+- Arithmatic Operators ```+ - * div```
+- Conditional Operators ```'<'    '>'   '<>'(not equal to)   '='(equal to)   '<='   '>='``` 
+- ```while (condition) do```
+- ```if .. then ..```
+- ```if .. then .. else ..```
+- block statement (```begin... end;```)
+- ```for i:= Exp to Exp do ..```
+- ```for i:= Exp downto Exp do ..```
+- print with single argument -- ```write(Exp);```
+- print string -- ```write('YOUR_STRING_HERE_WITH_NO_SPACE_IN_BLOCK_LETTERS');```
+- read single argument -- ```read(input, VAR_NAME_HERE );```
+
 ## Some programs the compiler can compile
 
-Pic1
-
+- Pic1
 ![alt text](PicsForReadME/zz1.png)
 
-Pic2
-
+- Pic2
 ![alt text](PicsForReadME/zz2.png)
 
-Pic3
-
+- Pic3
 ![alt text](PicsForReadME/zz3.png)
 
 ## Refrences used ..
