@@ -32,3 +32,15 @@ Pic2
 Pic3
 
 ![alt text](PicsForReadME/zz3.png)
+
+## Refrences used ..
+
+1. https://www.cs.helsinki.fi/u/vihavain/k10/okk/minipascal/minipascalsyntax.html
+2. Example Compiler (Last Lab - whileLoop) 
+
+## Team Members
+
+- Shah Ujjaval Satishkumar - 17110141
+- Anshuman Yadav - 17110020
+- Ayush Agarwal - 17110030
+- Shaurya Agarawal - 17110145
