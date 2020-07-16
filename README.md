@@ -37,12 +37,18 @@ gcc calc.tab.c lex.yy.c -lfl
 ## Some programs the compiler can compile
 
 - Pic1
+
+
 ![alt text](PicsForReadME/zz1.png)
 
 - Pic2
+
+
 ![alt text](PicsForReadME/zz2.png)
 
 - Pic3
+
+
 ![alt text](PicsForReadME/zz3.png)
 
 ## Refrences used ..
